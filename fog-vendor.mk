@@ -1467,8 +1467,6 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     DeviceInfo \
     ImsRcsService \
-    PerformanceMode \
-    PowerSaveMode \
     QtiTelephonyService \
     uceShimService \
     workloadclassifier \
